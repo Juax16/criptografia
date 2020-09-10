@@ -8,9 +8,9 @@ from selenium.webdriver import ActionChains
 driver = webdriver.Firefox(executable_path=r'C:\Program Files (x86)\geckodriver.exe')
 
 ############# DATOS #############
-mail = "joaquinhockeylagos@gmail.com" 
-pw = "Qwer.1234" #Contraseña actual, Al menos 5 caracteres 
-new_pw = "Qwer.1234" #Nueva contraseña 
+mail = "" 
+pw = "" #Contraseña actual, Al menos 5 caracteres 
+new_pw = "" #Nueva contraseña 
 name = "" 
 lastname = "" 
 birthday = "" # dd/mm/aaaa
